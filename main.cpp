@@ -20,6 +20,8 @@ void menu_items(){
     cout << "4. List Employee" << endl;
     cout << "5. If you have already created a file, please give me that file name " << endl;
     cout << "6. Quit" << endl;
+    //this is our menu items
+    
 }
 
 
